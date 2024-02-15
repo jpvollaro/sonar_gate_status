@@ -1,0 +1,113 @@
+com.optum.PPS.EZG.Core:Anlyzr.eamnlz01 - NOT FOUND
+com.optum.PPS.EZG.Core:Anlyzr.edc01 - NOT FOUND
+com.optum.PPS.EZG.Core:Edit.ace  - 95.3%
+com.optum.PPS.EZG.Core:Edit.cah2 - NOT FOUND
+com.optum.PPS.EZG.Core:Edit.dsc  - 94.8%
+com.optum.PPS.EZG.Core:Edit.lcd  - 74.8%
+com.optum.PPS.EZG.Core:Edit.moe  - 88.9%
+com.optum.PPS.EZG.Core:Edit.phys  - 92.5%
+com.optum.PPS.EZG.Core:Edit.triecp  - 86.2%
+com.optum.PPS.EZG.Core:Grpr.apc16 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.apc17  - 78.7%
+com.optum.PPS.EZG.Core:Grpr.apc18 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.apc19  - 78.7%
+com.optum.PPS.EZG.Core:Grpr.apc20 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.apc21 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.apc-all  - 81.6%
+com.optum.PPS.EZG.Core:Grpr.apdrg14 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.apdrg26 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.apdrg27  - 92.5%
+com.optum.PPS.EZG.Core:Grpr.aprcp  - 91.6%
+com.optum.PPS.EZG.Core:Grpr.asc-all  - 70.2%
+com.optum.PPS.EZG.Core:Grpr.champus30 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.eapgcp  - 87.5%
+com.optum.PPS.EZG.Core:Grpr.esrd01  - 85.7%
+com.optum.PPS.EZG.Core:Grpr.hcfa12 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.hcfa23 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.hcfa24 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.hcfa29 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.hcfa30 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.hcfa32  - 94.1%
+com.optum.PPS.EZG.Core:Grpr.hha01 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.hhar01  - 96.6%
+com.optum.PPS.EZG.Core:Grpr.irf11  - 95.7%
+com.optum.PPS.EZG.Core:Grpr.irf19 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg33 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg34 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg35  - 92.6%
+com.optum.PPS.EZG.Core:Grpr.msdrg36  - 93.1%
+com.optum.PPS.EZG.Core:Grpr.msdrg37 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg38 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg39 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg391 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg400 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.msdrg401 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.snf01  - 93.3%
+com.optum.PPS.EZG.Core:Grpr.snfr01 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.trdrg33 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.trdrg34  - 93.5%
+com.optum.PPS.EZG.Core:Grpr.trdrg35 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.trdrg36  - 93.3%
+com.optum.PPS.EZG.Core:Grpr.trdrg37 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.trdrg38  - 93.3%
+com.optum.PPS.EZG.Core:Grpr.trdrg39 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.trdrg391 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.trdrg400 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.wi31  - 88.3%
+com.optum.PPS.EZG.Core:Grpr.widrg31 - NOT FOUND
+com.optum.PPS.EZG.Core:Grpr.widrg33  - 88.8%
+com.optum.PPS.EZG.Core:Mapr.alti10cp - NOT FOUND
+com.optum.PPS.EZG.Core:Mapr.icd10  - 91.9%
+com.optum.PPS.EZG.Core:Prcr.apchopd  - 94.0%
+com.optum.PPS.EZG.Core:Prcr.apgpro  - 97.5%
+com.optum.PPS.EZG.Core:Prcr.aprpro  - 98.2%
+com.optum.PPS.EZG.Core:Prcr.asc  - 95.9%
+com.optum.PPS.EZG.Core:Prcr.az  - 96.4%
+com.optum.PPS.EZG.Core:Prcr.ca  - 98.1%
+com.optum.PPS.EZG.Core:Prcr.cah2 - NOT FOUND
+com.optum.PPS.EZG.Core:Prcr.champus  - 93.3%
+com.optum.PPS.EZG.Core:Prcr.contractapc  - 93.7%
+com.optum.PPS.EZG.Core:Prcr.contractasc  - 96.7%
+com.optum.PPS.EZG.Core:Prcr.esrd  - 97.8%
+com.optum.PPS.EZG.Core:Prcr.fl  - 94.8%
+com.optum.PPS.EZG.Core:Prcr.fqhc  - 95.9%
+com.optum.PPS.EZG.Core:Prcr.ga  - 96.2%
+com.optum.PPS.EZG.Core:Prcr.hha  - 98.6%
+com.optum.PPS.EZG.Core:Prcr.hspc  - 97.1%
+com.optum.PPS.EZG.Core:Prcr.ia  - 92.7%
+com.optum.PPS.EZG.Core:Prcr.ilapg  - 94.7%
+com.optum.PPS.EZG.Core:Prcr.ilapr  - 95.4%
+com.optum.PPS.EZG.Core:Prcr.in  - 94.9%
+com.optum.PPS.EZG.Core:Prcr.irf  - 97.1%
+com.optum.PPS.EZG.Core:Prcr.ks  - 96.3%
+com.optum.PPS.EZG.Core:Prcr.ky  - 95.2%
+com.optum.PPS.EZG.Core:Prcr.ltc  - 96.8%
+com.optum.PPS.EZG.Core:Prcr.medicare - NOT FOUND
+com.optum.PPS.EZG.Core:Prcr.mi  - 97.0%
+com.optum.PPS.EZG.Core:Prcr.multi  - 96.6%
+com.optum.PPS.EZG.Core:Prcr.nc  - 92.4%
+com.optum.PPS.EZG.Core:Prcr.neapr  - 95.7%
+com.optum.PPS.EZG.Core:Prcr.nm  - 93.3%
+com.optum.PPS.EZG.Core:Prcr.nmapc  - 94.9%
+com.optum.PPS.EZG.Core:Prcr.nyapg  - 96.3%
+com.optum.PPS.EZG.Core:Prcr.nyapg2  - 96.0%
+com.optum.PPS.EZG.Core:Prcr.nyapr  - 93.6%
+com.optum.PPS.EZG.Core:Prcr.nypsych  - 97.3%
+com.optum.PPS.EZG.Core:Prcr.ohapr  - 94.6%
+com.optum.PPS.EZG.Core:Prcr.paapr  - 94.4%
+com.optum.PPS.EZG.Core:Prcr.phys  - 96.4%
+com.optum.PPS.EZG.Core:Prcr.psych  - 98.6%
+com.optum.PPS.EZG.Core:Prcr.rhc - NOT FOUND
+com.optum.PPS.EZG.Core:Prcr.sc  - 96.1%
+com.optum.PPS.EZG.Core:Prcr.snf  - 96.2%
+com.optum.PPS.EZG.Core:Prcr.tripcp  - 87.7%
+com.optum.PPS.EZG.Core:Prcr.tx  - 97.5%
+com.optum.PPS.EZG.Core:Prcr.txop - NOT FOUND
+com.optum.PPS.EZG.Core:Prcr.waapg  - 95.2%
+com.optum.PPS.EZG.Core:Prcr.waapr - NOT FOUND
+com.optum.PPS.EZG.Core:Prcr.wiapg - NOT FOUND
+com.optum.PPS.EZG.Core:Prcr.wisnf - NOT FOUND
+
+C:\Optum\jpvollaro_git\sonar_gate_status\bin\Debug\net6.0\sonar_gate_status.exe (process 28632) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
