@@ -43,6 +43,7 @@ groupers_msdrg391
 groupers_msdrg400
 groupers_msdrg401
 groupers_msdrg410
+groupers_msdrg411
 groupers_snf01
 groupers_snfr01
 groupers_trdrg33
@@ -54,6 +55,7 @@ groupers_trdrg38
 groupers_trdrg39
 groupers_trdrg391
 groupers_trdrg400
+groupers_trdrg410
 groupers_wi31
 groupers_widrg31
 groupers_widrg33
@@ -85,6 +87,7 @@ pricers_ky
 pricers_ltc
 pricers_medicare
 pricers_mi
+pricers_msdrgpro
 pricers_multi
 pricers_nc
 pricers_neapr
@@ -95,6 +98,7 @@ pricers_nyapg2
 pricers_nyapr
 pricers_nypsych
 pricers_ohapr
+pricers_okapc
 pricers_orf
 pricers_paapr
 pricers_phys
