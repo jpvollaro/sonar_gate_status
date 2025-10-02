@@ -8,7 +8,6 @@
 
 			HttpClientWrapper httpClientWrapper = new();
 
-			// https://github.com/OptumInsight-Provider/pps-easygroup-cicd-poc/blob/e0b3747096edd89949bdec5452b3fffc059a5fbf/cicd/build_image_easygroup_core/easygroup_lib_products.txt
 			foreach (var line in File.ReadLines("easygroup_lib_products.txt"))
             {
 				Console.Write(".");
@@ -21,11 +20,10 @@
 						continue;
 					}
 
-					var codeCoverage = httpClientWrapper.GetSonarCodeCoverage(projectKey);
-					var codeDate = httpClientWrapper.GetSonarAnalysesDate(projectKey);
-					ProductStatus productStatus = new(projectKey, codeCoverage, codeDate);
+					ProductStatus productStatus = httpClientWrapper.GetSonarCodeCoverage(projectKey);
 					if (productStatus.isSuccessful())
-					{
+					{ 
+						productStatus.LastAnalysisDate = DateTime.Parse(httpClientWrapper.GetSonarAnalysesDate(projectKey));
 						ProductStatus.Success.Add(productStatus);
 					}
 					else

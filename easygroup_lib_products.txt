@@ -1,3 +1,5 @@
+com.optum.PPS.EZG.WebService:webapi-dotnet-core
+com.optum.PPS.EZG.Core:EASYGroupServer
 analyzers_eamnlz01
 analyzers_edc01
 editors_ace
@@ -20,6 +22,7 @@ groupers_apdrg27
 groupers_aprcp
 groupers_asc-all
 groupers_champus30
+groupers_champus32
 groupers_eapgcp
 groupers_esrd01
 groupers_hcfa12
@@ -102,6 +105,7 @@ pricers_okapc
 pricers_orf
 pricers_paapr
 pricers_phys
+pricers_profiler
 pricers_psych
 pricers_rhc
 pricers_sc
